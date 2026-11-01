@@ -1,4 +1,5 @@
-# Cut the Firefox OS
+![CTFOS](fb.png)
+
 > [!NOTE]
 > Please read the deployments of `github-pages`. When it is failed or finished, check the deployment log.
 > small README btw
