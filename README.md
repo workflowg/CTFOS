@@ -1,7 +1,7 @@
 ![CTFOS](fb.png)
 
 ![GitHub forks](https://img.shields.io/github/forks/workflowg/CTFOS?style=for-the-badge&logo=github)
-![GitHub deployments](https://img.shields.io/github/deployments/workflowg/CTFOS/github-pages)
+![GitHub deployments](https://img.shields.io/github/deployments/workflowg/CTFOS/github-pages?style=for-the-badge&logo=github)
 
 > [!NOTE]
 > Please read the deployments of `github-pages`. When it is failed or finished, check the deployment log or read the second markdown badge.
